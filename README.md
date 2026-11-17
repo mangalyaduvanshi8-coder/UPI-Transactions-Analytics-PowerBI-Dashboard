@@ -7,10 +7,10 @@ An interactive 2-page **Microsoft Power BI** business intelligence dashboard ana
 ## Dashboard Previews
 
 ### Page 1: Monthly Trend & Dynamic Bookmark Switcher
-![Monthly Trend and Bookmark View](page-1-trend-bookmarks.png)
+![Monthly Trend and Bookmark View](Executive Overview.png)
 
 ### Page 2: City & Multi-Currency Matrix Breakdown
-![City and Currency Matrix View](page-2-city-matrix.png)
+![City and Currency Matrix View](Detailed Analysis.png)
 
 ---
 
