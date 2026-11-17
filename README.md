@@ -7,17 +7,16 @@ An interactive 2-page **Microsoft Power BI** business intelligence dashboard ana
 ## Dashboard Previews
 
 ### Page 1: Executive Overview (Monthly Trend & Bookmark Switcher)
-![Executive Overview](executive-overview.png)
+![Executive Overview](Executive%20Overview.png)
 
 ### Page 2: Detailed Analysis (City & Multi-Currency Matrix)
-![Detailed Analysis](detailed-analysis.png)
+![Detailed Analysis](Detailed%20Analysis.png)
 
 ### Page 3: Reliability & Channels (Success Rate & Payment Methods)
-![Reliability and Channels](reliability-channels.png)
+![Reliability and Channels](Reliability%20&%20Channels.png)
 
 ### Page 4: Merchants & Demographics (Merchant Spend, Banks & Age Groups)
-![Merchants and Demographics](merchants-demographics.png)
----
+![Merchants and Demographics](Merchants%20&%20Demographics.png)
 
 ## Executive KPI Summary (FY 2024 Dataset)
 
